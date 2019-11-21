@@ -1,0 +1,7 @@
+USE CASE:
+A manager wants to add a new product to the existing database.
+An existing product needs to be removed.
+A new customer needs to be added into the system.
+A customer’s information needs to be updated.
+A customer wants to purchase a product, which needs to be recorded.
+A manager wants to update the details of an existing purchase.
